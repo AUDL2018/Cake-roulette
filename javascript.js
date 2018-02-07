@@ -9,7 +9,7 @@ let listOfStudents = [
   // new Student('Klaudia Egadova', false),
   new Student('Carmen F. Jitaru', false),
   new Student('Sonia K. Johansen', false),
-  new Student('Tanja K. Johansen', false),
+  new Student('Tanja K. Johansen', true),
   new Student('Dimitra, Mavrogonatou', false),
   new Student('Radina P. Nedeleva', false),
   new Student('Sara D. Nicolajsen', false),
