@@ -6,7 +6,7 @@ function Student(name, broughtCake) {
 let listOfStudents = [
   new Student('Anne Andersen', false),
   new Student('Lena Buhl', false),
-  new Student('Klaudia Egadova', false),
+  // new Student('Klaudia Egadova', false),
   new Student('Carmen F. Jitaru', false),
   new Student('Sonia K. Johansen', false),
   new Student('Tanja K. Johansen', false),
@@ -18,10 +18,10 @@ let listOfStudents = [
   new Student('Casper B. Pedersen', false),
   new Student('Oline K. S. Poulsen', false),
   new Student('Stanislav Pozdniakov', false),
-  new Student('Giulio Rosadoni', false),
+  // new Student('Giulio Rosadoni', false),
   new Student('Henrik Schütze', false),
-  new Student('Jan Strajnar', false),
-  new Student('Gita M. Thomassen', false),
+  // new Student('Jan Strajnar', false),
+  // new Student('Gita M. Thomassen', false),
   new Student('Katarina Tökölyova', false),
   new Student('Rina Vijayasundaram', false)
 ]
